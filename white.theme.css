@@ -1,0 +1,46 @@
+//META{"name":"White","description":"Theme Official","author":"xDeltaFox","version":"0.0.15"}*//
+
+/* Não sei o motivo, mas o primeiro item, seja classe ou id a ser modificado não funciona, então essa "classe" abaixo é só para encher linguiça enganar o css, então não APAGUE, mas se for modifica-la não faz diferença nenhuma. */
+.xxxxxx {
+    xxxx: xxxxx
+}
+
+.util-app {
+    background-color: #f1f2f1;
+}
+
+.itens-button {
+    background-color: #f1f2f1;
+}
+
+.itens-button:hover {
+    background-color: #f3f4f4;
+}
+
+.titlebar-edge {
+    background-color: #f1f1f1;
+}
+
+span {
+    color: #252424 !important;
+}
+
+.ply-time-display span {
+    color: #fff !important;
+}
+
+.game-add-F58dY4 {
+    background-color: #dadada;
+}
+
+.lost-tab-top {
+    background: #e0e0e0;
+}
+
+.contain-theme {
+    background: #c5c5c5;
+}
+
+.selected-item {
+    background-color: #e8bb69;
+}

@@ -1,0 +1,22 @@
+//META{"name":"Dark","description":"Theme Official","author":"xDeltaFox","version":"0.0.15"}*//
+
+/* Não sei o motivo, mas o primeiro item, seja classe ou id a ser modificado não funciona, então essa "classe" abaixo é só para encher linguiça enganar o css, então não APAGUE, mas se for modifica-la não faz diferença nenhuma. */
+.xxxxxx {
+    xxxx: xxxxx
+}
+
+.util-app {
+    background-color: #212020;
+}
+
+.itens-button {
+    background-color: #212020;
+}
+
+.itens-button:hover {
+    background-color: #242323;
+}
+
+.titlebar-edge {
+    background-color: #1c1c1c;
+}
